@@ -5,3 +5,6 @@
 [submodule "dcm2"]
 	path = dcm2
 	url = https://github.com/atlas-aai/dcm2
+[submodule "tdcmStan"]
+	path = tdcmStan
+	url = https://github.com/atlas-aai/tdcmstan
